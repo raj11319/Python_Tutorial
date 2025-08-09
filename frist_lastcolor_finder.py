@@ -1,0 +1,5 @@
+color = input("enter color comma seperated: \n")
+colors = color.split(",")
+print("first color is " , colors[0])
+print("second color is", colors[-1])
+print("Thank You")
